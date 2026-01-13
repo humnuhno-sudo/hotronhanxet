@@ -258,4 +258,4 @@ if student_file:
             st.error(f"Lỗi xử lý: {e}")
 
 # --- FOOTER ---
-st.markdown("<div style='text-align:center; margin-top:50px; color:#888;'>© 2026 - Thầy Hiếu Tool</div>", unsafe_allow_html=True)
+st.markdown("<div style='text-align:center; margin-top:50px; color:#888;'>© 2026 - Thầy Hiếu -( Nâng cấp ChatGPT, Canva, Gemini, Veo3 giá rẻ) Tool</div>", unsafe_allow_html=True)
