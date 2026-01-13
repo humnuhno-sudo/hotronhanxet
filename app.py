@@ -106,7 +106,8 @@ def process_ai_response_unique(content, target_level, needed_count):
 st.markdown("""
 <div class="header-box">
     <h1>💎 TRỢ LÝ NHẬN XÉT TIỂU HỌC TT27</h1>
-    <p>Tác giả: Lù Seo Sần - Trường PTDTBT TH Bản Ngò</p>
+    <p>Tác giả: Hoàng Minh Hiếu - 0374 180 562
+    ( Hỗ trợ nâng cấp các tài khoản AI - giá rẻ)</p>
 </div>
 """, unsafe_allow_html=True)
 
